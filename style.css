@@ -1,0 +1,86 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-image: url('1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  backdrop-filter: brightness(0.9); /* Optional: dim background for readability */
+}
+  .container {
+    max-width: 800px;
+  }
+  
+  .card {
+    border-radius: 1rem;
+    border: none;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    transition: all 0.3s ease;
+  }
+  
+  h1 {
+    color: #ffffff;
+    font-weight: 600;
+  }
+  
+  .btn-primary {
+    background-color: #0c0e0e;
+    border-color: #0c0e0e;
+    transition: all 0.3s;
+  }
+  
+  .btn-primary:hover {
+    background-color: #385058;
+    border-color: #58666b;
+    transform: translateY(-2px);
+  }
+  
+  #weatherResult {
+    animation: fadeIn 0.5s ease;
+  }
+  
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  
+  #cityName {
+    font-weight: 600;
+    margin-bottom: 0;
+  }
+  .card-body{
+    background-color: #001f3f;
+    border-radius: 1rem;
+  }
+  .card-body h2 {
+    font-size: 2.2rem;
+    font-weight: bold;
+  }
+  
+  .card-title {
+    font-weight: 600;
+    margin-bottom: 1rem;
+  }
+  
+  a {
+    color: #5ec7ff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  small{
+    color: #ffffff;
+  }
+  /* For smaller screens */
+  @media (max-width: 768px) {
+    .card {
+      padding: 1rem !important;
+      background-color: transparent;
+      border-radius: 1rem;
+      border: none;
+      box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+      transition: all 0.3s ease;
+    }
+  }
