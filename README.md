@@ -23,6 +23,7 @@
 # Technologies and Tools Used:
 
  *1.HTML (HyperText Markup Language):*
+ 
    HTML is used to define the structure and content of the webpage. It includes form fields for user input, alert messages, weather result sections, and organized Bootstrap-based components like cards and 
    buttons. HTML serves as the backbone of the application’s interface.
 
