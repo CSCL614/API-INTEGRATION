@@ -100,7 +100,9 @@
    interactive web applications and handle third-party API data.
 
 
+# OUT PUT :
 
+![Image](https://github.com/user-attachments/assets/09f6cbde-748f-4fab-a800-f05642d397ec)
 
 
 
