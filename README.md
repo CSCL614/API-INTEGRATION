@@ -63,12 +63,7 @@
 
 ->Humidity and wind speed.
 
-
-# 5.Unsplash Source API (Optional Enhancement):
-
-   For users who wish to personalize the app further, Unsplash’s image API can be used to fetch high-resolution background images based on the city name, enhancing the visual context of the weather data.
-
-# 6.Bootstrap 5:
+# 5.Bootstrap 5:
 
    Bootstrap is a widely used CSS framework that simplifies responsive and mobile-first design. In this application, it provides:
 
@@ -79,11 +74,11 @@
  ->Utility classes for padding, margin, colors, and alignment Bootstrap drastically reduces the amount of custom CSS needed and ensures compatibility with different screen sizes.
 
 
-# 7.Visual Studio Code (VS Code):
+# 6.Visual Studio Code (VS Code):
 
    VS Code is used as the development environment for writing, editing, and managing HTML, CSS, and JavaScript files. The "Live Server" extension allows developers to view changes instantly in the browser during development.
 
-# 8.Web Browser:
+# 7.Web Browser:
 
    Any modern browser (e.g., Chrome, Edge, Firefox) is used to run and test the application. It displays the real-time weather UI and handles dynamic content via JavaScript.
 
