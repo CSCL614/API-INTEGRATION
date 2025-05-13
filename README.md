@@ -22,8 +22,11 @@
 # Project Structure:
 
   weather-dashboard/
+ 
   ├── index.html
+
   ├── style.css
+  
   └── script.js
 
 # Technologies and Tools Used:
