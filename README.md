@@ -20,14 +20,12 @@
  and API services to create a modern and interactive user experience. The core objective of this application is to fetch and display current weather data, including temperature, humidity, wind speed, and weather 
  conditions, using OpenWeatherMap's public REST API. It is an excellent example of practical API integration in a web project.
 # Project Structure:
-
-  weather-dashboard/
- 
-  ├── index.html
-
-  ├── style.css
-  
-  └── script.js
+    TASK1/
+      |
+      weather-dashboard/
+        ├── index.html
+        ├── style.css
+        └── script.js
 
 # Technologies and Tools Used:
 
