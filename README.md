@@ -21,11 +21,10 @@
  conditions, using OpenWeatherMap's public REST API. It is an excellent example of practical API integration in a web project.
 # Project Structure:
     TASK1/
-      |
-      weather-dashboard/
-        ├── index.html
-        ├── style.css
-        └── script.js
+    ├──weather-dashboard/
+       ├── index.html
+       ├── style.css
+       └── script.js
 
 # Technologies and Tools Used:
 
